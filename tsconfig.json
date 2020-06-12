@@ -1,0 +1,7 @@
+{
+  "extends": "ts-config-single-spa",
+  "include": ["src/**/*"],
+  "compilerOptions": {
+    "jsx": "react"
+  }
+}
